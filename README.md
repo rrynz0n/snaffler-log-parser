@@ -1,12 +1,10 @@
-# Security Log Consolidator
+# Snaffler Log Parser
 
-A local web application for parsing, filtering, and exporting security scan logs.
-
-![Screenshot](screenshot.png)
+A local web application for parsing, filtering, and exporting snaffler logs.
 
 ## Features
 
-- **Parse Logs**: Upload or paste security scan logs in the expected format
+- **Parse Logs**: Upload or paste snaffler logs in the expected format
 - **Filter by Triage Level**: Filter entries by Red, Yellow, Green, or other triage levels
 - **Export to CSV**: Export filtered results with all columns:
   - Timestamp
